@@ -22,5 +22,3 @@ Join our official Discord server for updates, script discussions, and feature re
 👉 **[Join Official Discord](https://discord.gg/x2v4z7DJxJ)**  
 Invite link: `https://discord.gg/x2v4z7DJxJ`
 ---
-## 📜 License
-This project is licensed under the [MIT License](LICENSE).
